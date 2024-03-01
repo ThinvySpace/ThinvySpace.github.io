@@ -25,4 +25,4 @@ AWARDS
 - National Undergraduate Electronic Design Contest (NUEDC, 电赛)
   - Second Prize, The organizing committee of NUEDC, 2022
 - Outstanding student (优秀学生)
-  - top 5%, Xidian University, 2022
+  - Top 5%, Xidian University, 2022
