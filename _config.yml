@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : https://www.zhihu.com/people/bei-chen-fan-xing-53
+  zhihu            : "https://www.zhihu.com/people/bei-chen-fan-xing-53"
 
 
 # Site Settings
@@ -212,7 +212,7 @@ collections:
     permalink: /:collection/:path/
 
 
-Defaults
+# Defaults
 defaults:
   # _posts
   - scope:
