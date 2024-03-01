@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Thinvy"
 description              : &description "personal description"
 url                      : "https://ThinvySpace.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://ThinvySpace.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "https://ThinvySpace.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   bio              : "ML Algorithm Deployment Engineer"
   location         : "Shenzhen, CHINA"
   employer         : "Xidian University"
-  uri              : "https://ThinvySpace.github.io"
+  uri              : ""
   email            : "qingyulann@foxmail.com" 
 
   # Academic websites
