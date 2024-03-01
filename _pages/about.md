@@ -13,7 +13,7 @@ I am passionate about efficient deployment of robotic algorithms. My current lea
 
 WORK EXPERIENCE
 ======
-- _**DJI**_, Shenzhen, Guangdong Prov, CA
+- _**DJI**_, &nbsp; Shenzhen, Guangdong Prov, CA
   - _Dec.2022 - Feb.2023_, &nbsp; Intern
   - _Jun.2023 - Dec.2023_, &nbsp; Embedded HPC Engineer
   - _Dec.2023 - Now_, &nbsp; &nbsp; &nbsp; &nbsp; &ensp; **NN Deployment Engineer**
