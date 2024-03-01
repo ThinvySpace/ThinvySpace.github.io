@@ -11,14 +11,14 @@ I am a High-Performance-Computing engineer at the Machine Learning Department of
 
 I am passionate about efficient deployment of robotic algorithms. My current learning directions include efficient nn deployment framework, nn quantization algorithm, nn compiler, calculation optimizeand nn operators design on heterogeneous processor(cpu, dsp, gpu, fpga), algorithm structure optimization and neural architecture search(NAS), etc.
 
-Work Experience
+WORK EXPERIENCE
 ======
 **DJI**, Shenzhen, Guangdong Prov, CA
 - _Dec.2022 - Feb.2023_, Intern
 - _Jun.2023 - Dec.2023_, Embedded HPC Engineer
 - _Dec.2023 - Now_, NN Deployment Engineer
 
-Selected Awards
+AWARDS
 ======
 - National university students robotics competition (RoboMaster)
   - Second Prize, DJI, 2022, 2023
