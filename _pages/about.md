@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a High-Performance-Computing engineer at the Machine Learning Department of DJI. I received my B.E. degree from the College of Communication Engineering, Xidian Universityin 2023.
+I am a High-Performance-Computing engineer at the Machine Learning Department of DJI. I received my B.E. degree from the College of Communication Engineering, Xidian University in 2023.
 
 I am passionate about efficient deployment of robotic algorithms. My current learning directions include efficient nn deployment framework, nn quantization algorithm, nn compiler, calculation optimizeand nn operators design on heterogeneous processor(cpu, dsp, gpu, fpga), algorithm structure optimization and neural architecture search(NAS), etc.
 
