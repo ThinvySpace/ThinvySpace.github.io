@@ -18,7 +18,7 @@ Work Experience
 - _Jun.2023 - Dec.2023_, Embedded HPC Engineer
 - _Dec.2023 - Now_, NN Deployment Engineer
 
-CSelected Awards
+Selected Awards
 ======
 - National university students robotics competition (RoboMaster)
   - Second Prize, DJI, 2022, 2023
